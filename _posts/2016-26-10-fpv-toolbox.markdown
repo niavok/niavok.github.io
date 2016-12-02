@@ -4,7 +4,7 @@ title:  "FPV Toolbox"
 description: A simple Virtual Reality video player
 date:   2016-10-26 17:47:00 +01
 display_date : 2016
-categories: game
+categories: tools
 img: fpv-toolbox.png
 categories: [tools]
 color: 82301E
