@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FPV Toolbox"
-description: A Virtual Really video player
+description: A simple Virtual Reality video player
 date:   2016-10-26 17:47:00 +01
 display_date : 2016
 categories: game
