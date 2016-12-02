@@ -4,7 +4,7 @@ title:  "Helium Rain"
 description: A realistic space opera for PC.
 date:   2016-12-02 16:39:00 +01
 categories: game
-img: helium-rain.jpg
+img: helium-rain.png
 categories: [games]
 color: 3077D2
 author: Niavok
