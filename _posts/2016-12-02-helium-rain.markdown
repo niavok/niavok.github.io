@@ -2,7 +2,7 @@
 layout: post
 title:  "Helium Rain"
 description: A realistic space opera for PC.
-date:   2016-12-02 16:39:00 +01
+date:   2015 - Now
 categories: game
 img: helium-rain.png
 categories: [games]
