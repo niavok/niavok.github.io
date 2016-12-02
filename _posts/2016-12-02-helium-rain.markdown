@@ -10,14 +10,15 @@ color: 3077D2
 author: Niavok
 ---
 
-Helium Rain is a realistic space simulation game I work on with [Gwennaël Arbona](http://gwennael.arbona.eu/). 
-
-[Project Page](http://helium-rain.com)
+Helium Rain is a realistic space simulation game I work on with [Gwennaël Arbona](http://gwennael.arbona.eu/). Helium Rain is written in C++ and use Unreal Engine 4.
 
 
 
-![Karna]({{site.baseurl}}/images/karna-2.jpg)
+[Helium rain project Page](http://helium-rain.com)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8u5JuIJo0Y" frameborder="0" allowfullscreen></iframe>
 
 
 
-Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 
+![Trade route in Helium Rain]({{site.baseurl}}/images/hr-trade-route.jpg)
+![Combat in Helium Rain]({{site.baseurl}}/images/hr-combat1.jpg)
