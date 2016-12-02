@@ -5,6 +5,7 @@ layout: default
   <div class="grid" data-masonry='{ "itemSelector": ".grid-item", "percentPosition": true, "columnWidth": 250, "gutter": 20 }'>
        {% for post in site.posts %}
         <div class="grid-item color{{forloop.index}}">
+         <a href="{{post.url | prepend: site.baseurl}}">
             <style>.color{{forloop.index}}{background-color:{% if post.color %}#{{post.color}}{% else %} #3949AB {% endif %} }</style>
          {% if post.img %}
           <img src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
@@ -12,9 +13,8 @@ layout: default
            <div class="container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
-            </div>
-           
+            <i class="fa fa-arrow-right" aria-hidden="true">
+           </a>
         </div>
 
     {% endfor %}
