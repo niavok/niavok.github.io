@@ -3,7 +3,7 @@ title: Niavok
 description: Niavok home page and blog.
 url: http://niavok.com/
 permalink: ':title/'
-
+favicon:     "images/favicon.ico"
 markdown: kramdown
 baseurl: ""
 
