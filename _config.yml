@@ -100,4 +100,6 @@ prose:
             - name: "Sciences"
               value: "sciences"
             - name: "Games"
-              value: "Games"
+              value: "games"
+            - name: "Work"
+              value: "work"
