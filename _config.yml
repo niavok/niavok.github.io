@@ -73,24 +73,28 @@ prose:
           value: ""
       - name: "date"
         field:
+          label: "Date"
           element: "text"
           value: CURRENT_DATETIME
       - name: "display_date"
         field:
+          label: "Display date"
           element: "text"
           value: CURRENT_DATETIME
       - name: "img"
         field:
+          label: "Image"
           element: "text"
-          value: ""
+          value: "none.png"
       - name: "color"
         field:
+          label: "Color"
           element: "text"
           value: "FFFFFF"
       - name: "categories"
         field:
           element: "multiselect"
-          label: "Add categories"
+          label: "Categories"
           placeholder: "Choose categories"
           options:
             - name: "Sciences"
