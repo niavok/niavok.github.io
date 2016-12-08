@@ -7,7 +7,7 @@ img: parrot-disco.jpg
 color: '266382'
 published: true
 title: Parrot Disco
-description: Fixed-wing drone
+description: Fixed-wing drone with stabilized HD video.
 ---
 Work on Parrot Disco creation during my position at Parrot.
 
