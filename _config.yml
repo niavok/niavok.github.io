@@ -63,10 +63,12 @@ prose:
           value: "Niavok"
       - name: "title"
         field:
+        	label: "Title"
           element: "text"
           value: ""
       - name: "description"
         field:
+          label: "Description"
           element: "text"
           value: ""
       - name: "date"
