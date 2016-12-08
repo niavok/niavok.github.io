@@ -56,24 +56,34 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
+          value: "post"
+      - name: "title"
         field:
           element: "text"
-          label: "Permalink"
           value: ""
+      - name: "description"
+        field:
+          element: "text"
+          value: ""
+      - name: "date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "display_date"
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "img"
+        field:
+          element: "text"
+          value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          options:
+            - name: "Sciences"
+              value: "sciences"
+            - name: "Games"
+              value: "Games"
