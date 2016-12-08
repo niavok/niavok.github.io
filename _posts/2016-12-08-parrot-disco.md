@@ -5,7 +5,7 @@ date: '2016-09-10 17:42 +0100'
 display_date: '2016'
 img: parrot-disco.jpg
 color: '266382'
-published: false
+published: true
 title: Parrot Disco
 description: Fixed-wing drone
 ---
