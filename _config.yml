@@ -57,6 +57,10 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Niavok"
       - name: "title"
         field:
           element: "text"
@@ -77,6 +81,10 @@ prose:
         field:
           element: "text"
           value: ""
+      - name: "color"
+        field:
+          element: "text"
+          value: "FFFFFF"
       - name: "categories"
         field:
           element: "multiselect"
