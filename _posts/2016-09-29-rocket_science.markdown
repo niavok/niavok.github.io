@@ -6,8 +6,8 @@ date: '2016-09-26 17:11 +0100'
 display_date: '2016'
 img: ps-rocket.jpg
 color: '000000'
-title: 'Podcast science: Rocket Science'
-description: 2 hours of scientific podcast and an article about rocket.
+title: 'Podcast Science: Rockets'
+description: 2 hours of scientific podcast and an article about rocket science.
 categories:
   - sciences
 ---
