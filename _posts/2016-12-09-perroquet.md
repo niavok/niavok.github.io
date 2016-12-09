@@ -19,4 +19,4 @@ time-codes, Perroquet cut the video you have to type the words you hear.
 
 [Perroquet Source code](https://github.com/niavok/perroquet)
 
-![perroquet]({{site.baseurl}}/http://perroquet.niavok.com/ressources/common/perroquet_screenshot1.png)
+![perroquet](http://perroquet.niavok.com/ressources/common/perroquet_screenshot1.png)
