@@ -14,6 +14,7 @@ categories:
 Work on Parrot Disco creation during my position at Parrot.
 
 Specifically work on:
+
 - the video acquisition system : digital stabilization, recording and streaming of camera video stream.
 - FPV headset interface and projection shaders.
 
