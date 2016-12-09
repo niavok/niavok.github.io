@@ -35,11 +35,15 @@
 
 
 }
-     .container {
-         padding: 15px;     
+.home-container {
+     padding: 15px;
+     min-height: 175px;
+}
 
-     }
-     
+.container {
+     padding: 15px;
+}
+
 .container a {
     color: #eee;
     text-decoration: none;

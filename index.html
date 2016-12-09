@@ -10,7 +10,7 @@ layout: default
          {% if post.img %}
           <img src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
           {% endif %}
-           <div class="container">
+           <div class="home-container">
             <h4>{{post.title}}</h4>
             <p>{{post.description}}</p>
             <div class="action">{{ post.display_date}}<i class="fa fa-arrow-right" aria-hidden="true"></i></div>
