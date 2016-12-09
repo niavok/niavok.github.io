@@ -5,7 +5,7 @@ date: '2011-12-09 16:03 +0100'
 display_date: '2011'
 img: perroquet.png
 color: '718050'
-published: false
+published: true
 title: Perroquet
 description: Oral comprehension exercice software.
 categories:
