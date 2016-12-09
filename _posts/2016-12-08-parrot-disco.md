@@ -4,10 +4,12 @@ layout: post
 date: '2016-09-10 17:42 +0100'
 display_date: '2016'
 img: parrot-disco.jpg
-color: '266382'
+color: 1E6285
 published: true
 title: Parrot Disco
 description: Fixed-wing drone with stabilized HD video.
+categories:
+  - work
 ---
 Work on Parrot Disco creation during my position at Parrot.
 
