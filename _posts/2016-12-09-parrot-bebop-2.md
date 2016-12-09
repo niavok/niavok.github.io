@@ -7,7 +7,7 @@ img: bebop2.jpg
 color: 1D5A80
 published: true
 title: Parrot Bebop 2
-description: Small quadcopter drone with stabilized video
+description: Small quadcopter drone with stabilized video.
 categories:
   - work
 ---
