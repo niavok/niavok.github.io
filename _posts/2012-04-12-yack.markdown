@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Yack"
-description: An advanced file uploader without flash
+description: An advanced file uploader without flash.
 date:   2012-04-12 00:00:00 +01
 display_date : 2012
 categories: tools
