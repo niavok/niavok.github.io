@@ -1,14 +1,15 @@
 ---
-layout: post
-title:  "Helium Rain"
-description: A realistic space opera for PC.
-date:   2016-12-02 16:39:00 +01
-display_date : 2015 – Now
-categories: game
-img: helium-rain.png
-categories: [games]
-color: 1E4A82
 author: Niavok
+layout: post
+date: '2016-12-14 20:30 +0100'
+display_date: 2015 – Now
+img: helium-rain.png
+color: 1E4A82
+published: false
+title: Helium Rain
+description: A realistic space opera game for PC.
+categories:
+  - games
 ---
 
 Helium Rain is a realistic space simulation game I work on with [Gwennaël Arbona](http://gwennael.arbona.eu/). Helium Rain is written in C++ and use Unreal Engine 4.
@@ -16,6 +17,9 @@ Helium Rain is a realistic space simulation game I work on with [Gwennaël Arbon
 
 
 [Helium rain project Page](http://helium-rain.com)
+[Helium rain source code](https://github.com/niavok/HeliumRain)
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P8u5JuIJo0Y" frameborder="0" allowfullscreen></iframe>
 
