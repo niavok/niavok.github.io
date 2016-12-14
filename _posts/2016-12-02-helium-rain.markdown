@@ -5,7 +5,7 @@ date: '2016-12-14 20:30 +0100'
 display_date: 2015 – Now
 img: helium-rain.png
 color: 1E4A82
-published: false
+published: true
 title: Helium Rain
 description: A realistic space opera game for PC.
 categories:
