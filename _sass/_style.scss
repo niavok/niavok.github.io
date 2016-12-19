@@ -2,6 +2,8 @@
     width: 95%;
     margin: 4em auto;
     height: auto;
+    display: inline-block;
+    text-align: center;
 }
 .cols {
 
@@ -12,6 +14,7 @@
     width: 100%;
     max-width: 400px;
     border-radius: 4px;
+    text-align: left;
     box-shadow: 2px 2px 4px #aaa;
     -webkit-box-shadow: 2px 2px 4px #aaa; /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
     -moz-box-shadow: 2px 2px 4px #aaa;  /* Firefox 3.5 - 3.6 */
