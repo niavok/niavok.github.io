@@ -4,44 +4,13 @@
     height: auto;
 }
 .cols {
-    -moz-column-count: 4;
-    -moz-column-gap: 2%;
-    -moz-column-width: 25%;
-    -webkit-column-count: 4;
-    -webkit-column-gap: 2%;
-    -webkit-column-width: 25%;
-    column-count: 4;
-    column-gap: 2%;
-    column-width: 25%;
-    
-    @include media-query($on-laptop){
-    -moz-column-count: 3;
-    -moz-column-gap: 3%;
-    -moz-column-width: 30%;
-    -webkit-column-count: 3;
-    -webkit-column-gap: 3%;
-    -webkit-column-width: 30%;
-    column-count: 3;
-    column-gap: 3%;
-    column-width: 30%;        
-    }
-    @include media-query($on-palm) {
-    -moz-column-count: 1;
-    -moz-column-gap: 0%;
-    -moz-column-width: 100%;
-    -webkit-column-count: 1;
-    -webkit-column-gap: 0%;
-    -webkit-column-width: 100%;
-    column-count: 1;
-    column-gap: 0%;
-    column-width: 100%;
-    }
 
 }
 .box {
     margin-bottom: 20px;
     display: inline-block;
     width: 100%;
+    max-width: 400px;
     border-radius: 4px;
     box-shadow: 2px 2px 4px #aaa;
     -webkit-box-shadow: 2px 2px 4px #aaa; /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
